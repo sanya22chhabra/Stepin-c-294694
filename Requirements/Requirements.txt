@@ -1,0 +1,60 @@
+1. Requirements:
+			Introduction:
+				This is a simple HANGMAN GAME that we all had played in childhood.
+
+				Player 1 will give a word as input and Player 2 will guess the word by giving an alphabet as input.
+				If Player 2 guess it right then he/she will be the winner Player 2 gets only 5 chances to guess the word
+				But this game has some constrains :
+				Constrains 1 : all inputs has to be alphabets in small case
+				
+				Constrains 2: Player 2 can not give any string as input it has to be a single word with no space or any special character.
+				
+				Constrains 3: the word can not be more than 100 characters long
+
+
+
+			Explanation:
+				Player 1 picks a word from a word list
+				Player 2 is allowed to guess the letters in the word, one at a time
+				If a guessed letter is indeed in the word, its exact location in the word will be shown
+				Otherwise Player 2 loses a guess
+				Only a limited number of guesses is allowed - a correct guess is not counted
+				He/She keeps guessing until:
+				The complete word is shown  OR
+				he/she runs out of guesses
+				
+				
+				
+			SWOT Analysis:
+			Strengths:  1. Since it is made on c,it is a high performance application.
+						2. It supports multiple platforms and can be deployed simultaneously.
+						
+			Weakness:	1. Player 2 gets only 5 chances to guess the word.
+						2. It uses a CUI to provide interactivity.
+						
+			Opportunities:	1. It is a multiplayer game that can engage two people at one time.
+							2. 
+						
+				
+			4W's and 1'H:
+				Who:
+				USER : Anyone who wants to chill and is in a mood for some guessing game can utilize this.
+
+				What:
+				PRODUCT : It is a simple game of hangman. For those who don’t know it, hangman is a word guessing game in which the player is told how many letters are in the word. The player must discover the word by guessing letters one at a time.
+						Each correctly guessed letter is added to the word. On each wrong guess, a body part is added to a picture of a hanged man. Once the hanged man is complete, the player loses the game. 
+				
+				When: 
+				ACTIVE : The problem with this is that Player 2 can not give any string as input it has to be a single word with no space or any special character.
+
+				Where:
+				This will work only where the word is not more than 100 characters long.
+
+				How:
+				Player 1 picks a word from a word list and Player 2 is allowed to guess the letters in the word, one at a time.
+				He/She keeps guessing until. The complete word is shown or he/she runs out of guesses.
+				
+				
+			
+			
+				
