@@ -26,14 +26,21 @@
 				
 				
 			SWOT Analysis:
-			Strengths:  1. Since it is made on c,it is a high performance application.
-						2. It supports multiple platforms and can be deployed simultaneously.
+			Strengths:	1. Since it is made on c,it is a high performance application.
+					2. It supports multiple platforms and can be deployed simultaneously.
+					3. Low-cost duplicate environments.
 						
 			Weakness:	1. Player 2 gets only 5 chances to guess the word.
-						2. It uses a CUI to provide interactivity.
+					2. It uses a CUI to provide interactivity.
+					3. Addiction
 						
 			Opportunities:	1. It is a multiplayer game that can engage two people at one time.
-							2. 
+					2. Simple mechanics will attract casual gamers.
+					3. Fulfill construction players needs.
+					
+			Threats:	1. Established competitors.
+					2. Lack of assessment methodology.
+					3. Ethical challenges.
 						
 				
 			4W's and 1'H:
@@ -41,8 +48,7 @@
 				USER : Anyone who wants to chill and is in a mood for some guessing game can utilize this.
 
 				What:
-				PRODUCT : It is a simple game of hangman. For those who don’t know it, hangman is a word guessing game in which the player is told how many letters are in the word. The player must discover the word by guessing letters one at a time.
-						Each correctly guessed letter is added to the word. On each wrong guess, a body part is added to a picture of a hanged man. Once the hanged man is complete, the player loses the game. 
+				PRODUCT : It is a simple game of hangman. For those who don’t know it, hangman is a word guessing game in which the player is told how many letters are in the word. The 				player must discover the word by guessing letters one at a time.Each correctly guessed letter is added to the word. On each wrong guess, a body part is added to a 					picture of a hanged man. Once the hanged man is complete, the player loses the game. 
 				
 				When: 
 				ACTIVE : The problem with this is that Player 2 can not give any string as input it has to be a single word with no space or any special character.
