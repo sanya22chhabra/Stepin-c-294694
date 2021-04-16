@@ -1,4 +1,4 @@
-# HANGMAN GAME
+# HANGMAN 
 
 
 ![](Design/hang.png)
